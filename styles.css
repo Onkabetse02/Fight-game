@@ -97,3 +97,31 @@ section p, section ul li {
 #game div {
     margin: 0 auto;
 }
+
+#features {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .feature video {
+    width: 100%;
+    max-width: 400px;
+    border: 2px solid #fff;
+    border-radius: 10px;
+  }
+  
+  .feature img {
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+  }
+  
+  .feature h3 {
+    margin-top: 10px;
+    font-size: 1.5em;
+  }
+  
+  .feature p {
+    font-size: 1.2em;
+    color: #aaa;
+  }
